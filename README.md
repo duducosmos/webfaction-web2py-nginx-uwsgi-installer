@@ -1,5 +1,7 @@
 # web2py + nginx + uwsgi installer for WebFaction
 
+[Click here to install][1]
+
 Web2py install/uninstall script for WebFaction using the latest stable source
 code from http://www.web2py.com/examples/static/web2py_src.zip.
 
@@ -21,3 +23,4 @@ accessed through an HTTPS-enabled site. You would usually mount the app to two
 websites - HTTPS-disabled one for normal access, and HTTPS-enabled one for admin
 logins.
 
+  [1]:https://my.webfaction.com/new-application?script_url=https://raw.github.com/wsfulmer/webfaction-web2py-nginx-uwsgi-installer/master/install.py
