@@ -7,7 +7,7 @@ code from http://www.web2py.com/examples/static/web2py_src.zip.
 
 This installs web2py for Python 2.7, served via Nginx 1.8.0 and uWSGI 2.0.10.
 
-The web2py files are found in ~/webapps/<app_name>/web2py.
+The web2py files are found in ~/webapps/app_name/web2py.
 
 IMPORTANT: Remember to set the Admin password in the extra_info field.
 
